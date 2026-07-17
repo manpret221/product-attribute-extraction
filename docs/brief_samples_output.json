@@ -1,0 +1,154 @@
+
+[
+  {
+    "text": "Floor length chiffon bridesmaid dress with pleated bodice and V neckline available in sage and dusty blue",
+    "attributes": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Chiffon",
+      "neckline": "V Neckline",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Pleated",
+      "color": [
+        "Sage",
+        "Dusty Blue"
+      ]
+    }
+  },
+  {
+    "text": "Sparkly sequin fitted prom gown featuring a deep illusion neckline and open back",
+    "attributes": {
+      "category": "Prom Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Sequin",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Open Back",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Off shoulder satin ball gown with corset bodice and sweep train in royal navy",
+    "attributes": {
+      "category": "Ball Gown Dress",
+      "silhouette": "Ball Gown",
+      "fabric": "Satin",
+      "neckline": "Off Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Sweep Train",
+      "embellishment": "Corset Bodice",
+      "color": [
+        "Royal Navy"
+      ]
+    }
+  },
+  {
+    "text": "Lace mermaid wedding dress with long sleeves and scalloped hem",
+    "attributes": {
+      "category": "Wedding Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Lace",
+      "neckline": "Not Specified",
+      "sleeve": "Long Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Scalloped Hem",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Short cocktail dress with feather trim and beaded waist detail",
+    "attributes": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Short/Mini",
+      "embellishment": "Beaded",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Tulle A line evening gown with floral embroidery and cap sleeves",
+    "attributes": {
+      "category": "Evening Gown",
+      "silhouette": "A-line",
+      "fabric": "Tulle",
+      "neckline": "Not Specified",
+      "sleeve": "Cap Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Embroidered",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Stretch jersey sheath dress with ruched waist and side slit",
+    "attributes": {
+      "category": "Dress",
+      "silhouette": "Sheath",
+      "fabric": "Jersey",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Strapless sweetheart neckline glitter gown with layered skirt",
+    "attributes": {
+      "category": "Evening Gown",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Layered",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "One shoulder draped chiffon dress with high slit and empire waist",
+    "attributes": {
+      "category": "Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Chiffon",
+      "neckline": "One Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "High Slit",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Velvet winter formal dress with square neckline and puff sleeves",
+    "attributes": {
+      "category": "Formal Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Velvet",
+      "neckline": "Square Neckline",
+      "sleeve": "Puff Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Lace Applique",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  }
+]

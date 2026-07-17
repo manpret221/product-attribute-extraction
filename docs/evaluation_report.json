@@ -1,0 +1,85 @@
+{
+  "test_size": 16,
+  "per_attribute_metrics": {
+    "category": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "silhouette": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "fabric": {
+      "accuracy": 0.938,
+      "macro_f1": 0.964
+    },
+    "neckline": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "sleeve": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "length": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "embellishment": {
+      "accuracy": 0.625,
+      "macro_f1": 0.576
+    },
+    "color": {
+      "accuracy": 1.0,
+      "micro_f1": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "overall_macro_accuracy": 0.945,
+  "overall_avg_f1": 0.942,
+  "failure_cases": [
+    {
+      "text": "Mermaid cocktail dress featuring lace applique and off shoulder",
+      "attribute": "fabric",
+      "expected": "Not Specified",
+      "predicted": "Lace"
+    },
+    {
+      "text": "Fit and flare lace formal dress with illusion neckline, cap sleeves and sweep train",
+      "attribute": "embellishment",
+      "expected": "Not Specified",
+      "predicted": "Lace Applique"
+    },
+    {
+      "text": "Mermaid satin party dress with illusion neckline, long sleeves and sweep train",
+      "attribute": "embellishment",
+      "expected": "Not Specified",
+      "predicted": "Lace Applique"
+    },
+    {
+      "text": "One shoulder draped chiffon dress with high slit and empire waist",
+      "attribute": "embellishment",
+      "expected": "Draped",
+      "predicted": "High Slit"
+    },
+    {
+      "text": "Sweep train organza party dress with sweetheart neckline and puff sleeves in gold",
+      "attribute": "embellishment",
+      "expected": "Not Specified",
+      "predicted": "Lace Applique"
+    },
+    {
+      "text": "Floor length chiffon cocktail dress with sweetheart neckline and three-quarter sleeves in white",
+      "attribute": "embellishment",
+      "expected": "Not Specified",
+      "predicted": "Lace Applique"
+    },
+    {
+      "text": "Short cocktail dress with feather trim and beaded waist detail",
+      "attribute": "embellishment",
+      "expected": "Feather Trim",
+      "predicted": "Beaded"
+    }
+  ]
+}

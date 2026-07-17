@@ -1,0 +1,783 @@
+[
+  {
+    "text": "Floor length chiffon bridesmaid dress with pleated bodice and V neckline available in sage and dusty blue",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Chiffon",
+      "neckline": "V Neckline",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Pleated",
+      "color": [
+        "Sage",
+        "Dusty Blue"
+      ]
+    }
+  },
+  {
+    "text": "Sparkly sequin fitted prom gown featuring a deep illusion neckline and open back",
+    "labels": {
+      "category": "Prom Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Sequin",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Open Back",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Off shoulder satin ball gown with corset bodice and sweep train in royal navy",
+    "labels": {
+      "category": "Ball Gown Dress",
+      "silhouette": "Ball Gown",
+      "fabric": "Satin",
+      "neckline": "Off Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Sweep Train",
+      "embellishment": "Corset Bodice",
+      "color": [
+        "Royal Navy"
+      ]
+    }
+  },
+  {
+    "text": "Lace mermaid wedding dress with long sleeves and scalloped hem",
+    "labels": {
+      "category": "Wedding Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Lace",
+      "neckline": "Not Specified",
+      "sleeve": "Long Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Scalloped Hem",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Short cocktail dress with feather trim and beaded waist detail",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Short/Mini",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Tulle A line evening gown with floral embroidery and cap sleeves",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "A-line",
+      "fabric": "Tulle",
+      "neckline": "Not Specified",
+      "sleeve": "Cap Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Embroidered",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Stretch jersey sheath dress with ruched waist and side slit",
+    "labels": {
+      "category": "Dress",
+      "silhouette": "Sheath",
+      "fabric": "Jersey",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Strapless sweetheart neckline glitter gown with layered skirt",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Strapless",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Glitter",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "One shoulder draped chiffon dress with high slit and empire waist",
+    "labels": {
+      "category": "Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Chiffon",
+      "neckline": "One Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Draped",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Velvet winter formal dress with square neckline and puff sleeves",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Velvet",
+      "neckline": "Square Neckline",
+      "sleeve": "Puff Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Tea length chiffon formal dress with square neckline and cap sleeves in dusty blue",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Chiffon",
+      "neckline": "Square Neckline",
+      "sleeve": "Cap Sleeves",
+      "length": "Tea Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "Dusty Blue"
+      ]
+    }
+  },
+  {
+    "text": "Empire waist formal dress featuring feather trim and strapless",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Not Specified",
+      "neckline": "Strapless",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Red cocktail dress with three-quarter sleeves, illusion neckline and glitter",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Three-Quarter Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Glitter",
+      "color": [
+        "Red"
+      ]
+    }
+  },
+  {
+    "text": "Mermaid cocktail dress featuring lace applique and off shoulder",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Not Specified",
+      "neckline": "Off Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Lace Applique",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Organza ball gown bridesmaid dress with feather trim in burgundy",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Ball Gown",
+      "fabric": "Organza",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Burgundy"
+      ]
+    }
+  },
+  {
+    "text": "Floor length cocktail dress in chiffon with mermaid silhouette and glitter",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Chiffon",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Glitter",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Ball gown prom dress featuring beaded and illusion neckline",
+    "labels": {
+      "category": "Prom Dress",
+      "silhouette": "Ball Gown",
+      "fabric": "Not Specified",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Beaded",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Mermaid satin party dress with illusion neckline, long sleeves and sweep train",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Satin",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Long Sleeves",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Mermaid lace party dress with one shoulder, puff sleeves and tea length",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Lace",
+      "neckline": "One Shoulder",
+      "sleeve": "Puff Sleeves",
+      "length": "Tea Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare lace formal dress with illusion neckline, cap sleeves and sweep train",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Lace",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Cap Sleeves",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Tulle sheath formal dress with beaded in royal navy",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Sheath",
+      "fabric": "Tulle",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Beaded",
+      "color": [
+        "Royal Navy"
+      ]
+    }
+  },
+  {
+    "text": "Sage evening gown with short sleeves, illusion neckline and ruched",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Short Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Sage"
+      ]
+    }
+  },
+  {
+    "text": "Tea length evening gown in stretch jersey with empire waist silhouette and ruched",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Empire Waist",
+      "fabric": "Jersey",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Tea Length",
+      "embellishment": "Ruched",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Silver cocktail dress with puff sleeves, strapless and embroidered",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Strapless",
+      "sleeve": "Puff Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Embroidered",
+      "color": [
+        "Silver"
+      ]
+    }
+  },
+  {
+    "text": "Tea length chiffon wedding dress with sweetheart neckline and cap sleeves in champagne",
+    "labels": {
+      "category": "Wedding Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Chiffon",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Cap Sleeves",
+      "length": "Tea Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "Champagne"
+      ]
+    }
+  },
+  {
+    "text": "Floor length evening gown in stretch jersey with trumpet silhouette and feather trim",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Trumpet",
+      "fabric": "Jersey",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Sweep train organza party dress with sweetheart neckline and puff sleeves in gold",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Organza",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Puff Sleeves",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "Gold"
+      ]
+    }
+  },
+  {
+    "text": "Floor length formal dress in velvet with empire waist silhouette and draped",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Velvet",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Draped",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "High-low cocktail dress in lace with a line silhouette and pleated",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "A-line",
+      "fabric": "Lace",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "High-Low Hem",
+      "embellishment": "Pleated",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Trumpet prom dress featuring ruched and sweetheart neckline",
+    "labels": {
+      "category": "Prom Dress",
+      "silhouette": "Trumpet",
+      "fabric": "Not Specified",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare satin cocktail dress with halter neckline, long sleeves and high-low",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Satin",
+      "neckline": "Halter",
+      "sleeve": "Long Sleeves",
+      "length": "High-Low Hem",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "High-low evening gown in lace with sheath silhouette and glitter",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Sheath",
+      "fabric": "Lace",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "High-Low Hem",
+      "embellishment": "Glitter",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Silver party dress with sleeveless, square neckline and scalloped hem",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Square Neckline",
+      "sleeve": "Sleeveless",
+      "length": "Not Specified",
+      "embellishment": "Scalloped Hem",
+      "color": [
+        "Silver"
+      ]
+    }
+  },
+  {
+    "text": "A line wedding dress featuring corset bodice and sweetheart neckline",
+    "labels": {
+      "category": "Wedding Dress",
+      "silhouette": "A-line",
+      "fabric": "Not Specified",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Corset Bodice",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Floor length chiffon cocktail dress with sweetheart neckline and three-quarter sleeves in white",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Chiffon",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Three-Quarter Sleeves",
+      "length": "Floor Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "White"
+      ]
+    }
+  },
+  {
+    "text": "Mermaid party dress featuring ruched and illusion neckline",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Not Specified",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Sweep train stretch jersey formal dress with illusion neckline and sleeveless in white",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Jersey",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Sleeveless",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "White"
+      ]
+    }
+  },
+  {
+    "text": "Trumpet organza formal dress with strapless, sleeveless and sweep train",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Trumpet",
+      "fabric": "Organza",
+      "neckline": "Strapless",
+      "sleeve": "Sleeveless",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare formal dress featuring feather trim and strapless",
+    "labels": {
+      "category": "Formal Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Not Specified",
+      "neckline": "Strapless",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Sheath bridesmaid dress featuring draped and off shoulder",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Sheath",
+      "fabric": "Not Specified",
+      "neckline": "Off Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Draped",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare party dress featuring beaded and sweetheart neckline",
+    "labels": {
+      "category": "Party Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Not Specified",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Beaded",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Ivory bridesmaid dress with cap sleeves, halter neckline and beaded",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Halter",
+      "sleeve": "Cap Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Beaded",
+      "color": [
+        "Ivory"
+      ]
+    }
+  },
+  {
+    "text": "Trumpet velvet wedding dress with halter neckline, puff sleeves and sweep train",
+    "labels": {
+      "category": "Wedding Dress",
+      "silhouette": "Trumpet",
+      "fabric": "Velvet",
+      "neckline": "Halter",
+      "sleeve": "Puff Sleeves",
+      "length": "Sweep Train",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Floor length evening gown in tulle with a line silhouette and corset bodice",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "A-line",
+      "fabric": "Tulle",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Corset Bodice",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "High-low wedding dress in organza with empire waist silhouette and scalloped hem",
+    "labels": {
+      "category": "Wedding Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Organza",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "High-Low Hem",
+      "embellishment": "Scalloped Hem",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare bridesmaid dress featuring feather trim and off shoulder",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Not Specified",
+      "neckline": "Off Shoulder",
+      "sleeve": "Not Specified",
+      "length": "Not Specified",
+      "embellishment": "Feather Trim",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Floor length evening gown in tulle with fit and flare silhouette and glitter",
+    "labels": {
+      "category": "Evening Gown",
+      "silhouette": "Fit and Flare",
+      "fabric": "Tulle",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Glitter",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Blush cocktail dress with cap sleeves, square neckline and ruched",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Not Specified",
+      "neckline": "Square Neckline",
+      "sleeve": "Cap Sleeves",
+      "length": "Not Specified",
+      "embellishment": "Ruched",
+      "color": [
+        "Blush"
+      ]
+    }
+  },
+  {
+    "text": "Floor length bridesmaid dress in velvet with empire waist silhouette and beaded",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Empire Waist",
+      "fabric": "Velvet",
+      "neckline": "Not Specified",
+      "sleeve": "Not Specified",
+      "length": "Floor Length",
+      "embellishment": "Beaded",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Knee length satin cocktail dress with illusion neckline and short sleeves in burgundy",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Not Specified",
+      "fabric": "Satin",
+      "neckline": "Illusion Neckline",
+      "sleeve": "Short Sleeves",
+      "length": "Knee Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "Burgundy"
+      ]
+    }
+  },
+  {
+    "text": "Mermaid velvet bridesmaid dress with off shoulder, sleeveless and high-low",
+    "labels": {
+      "category": "Bridesmaid Dress",
+      "silhouette": "Mermaid",
+      "fabric": "Velvet",
+      "neckline": "Off Shoulder",
+      "sleeve": "Sleeveless",
+      "length": "High-Low Hem",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  },
+  {
+    "text": "Fit and flare velvet cocktail dress with sweetheart neckline, cap sleeves and knee length",
+    "labels": {
+      "category": "Cocktail Dress",
+      "silhouette": "Fit and Flare",
+      "fabric": "Velvet",
+      "neckline": "Sweetheart Neckline",
+      "sleeve": "Cap Sleeves",
+      "length": "Knee Length",
+      "embellishment": "Not Specified",
+      "color": [
+        "Not Specified"
+      ]
+    }
+  }
+]
